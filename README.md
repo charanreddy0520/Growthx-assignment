@@ -27,7 +27,7 @@ Before you begin, ensure you have the following installed on your machine:
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/your-username/assignment-portal.git
+git clone https://github.com/charanreddy0520/Growthx-assignment
 cd assignment-portal
 ```
 
